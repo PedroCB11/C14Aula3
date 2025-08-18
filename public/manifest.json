@@ -1,0 +1,125 @@
+[
+  {
+  "id": 1,
+  "nome": "João da Silva",
+  "email": "joao.silva@example.com",
+  "endereco": {
+    "rua": "Rua Exemplo, 123",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01234-567"
+  },
+  "telefone": "11 91234-5678"
+}, 
+
+  {
+  "id": 2,
+  "nome": "Maria Oliveira",
+  "email": "maria.oliveira@gmail.com",
+  "endereco": {
+    "rua": "Avenida Teste, 456",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "cep": "98765-432"
+  },
+    "telefone": "21 99876-5432"
+    },
+
+    {"id": 3,
+  "nome": "Carlos Pereira", 
+  "email": "carlos.pereira@outlook.com",
+  "endereco": {
+    "rua": "Travessa Exemplo, 789",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "cep": "12345-678"
+  },
+    "telefone": "31 98765-4321"
+
+},
+    {
+    "id": 4,
+    "nome": "Ana Souza",
+    "email": "ana.souza@gmail.com",
+    "endereco": {
+      "rua": "Rua Teste, 321",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "23456-789"
+    }, 
+    "telefone": "41 91234-5678"
+    },
+    {
+    "id": 5,
+    "nome": "Pedro Santos",
+    "email": "pedro.santos@gmai.com",
+    "endereco": {
+      "rua": "Avenida Exemplo, 654",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "34567-890"
+    },
+    "telefone": "51 99876-5432"
+    },
+    {
+    "id": 6,
+    "nome": "Fernanda Lima",
+    "email": "fernanda.lima@gmail.com",
+    "endereco": {  
+        "rua": "Rua Teste, 987",
+        "cidade": "Salvador",
+        "estado": "BA",
+        "cep": "45678-901"
+        },
+    "telefone": "71 98765-4321"
+    },
+    {   
+    "id": 7,
+    "nome": "Roberto Costa",
+    "email": "roberto.costa@gmail.com",
+    "endereco": {
+        "rua": "Avenida Exemplo, 123",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "cep": "56789-012"
+        },
+    "telefone": "85 91234-5678"
+    },
+    {   
+    "id": 8,
+    "nome": "Luciana Rocha",
+    "email": "luciana.rocha@inatel.br",
+    "endereco": {
+        "rua": "Travessa Teste, 456",
+        "cidade": "Recife",
+        "estado": "PE",
+        "cep": "67890-123"
+        },  
+    "telefone": "81 99876-5432"
+    },
+    {
+    "id": 9,
+    "nome": "Ricardo Almeida",  
+    "email": "ricardo.almeida@gmail.com",
+    "endereco": {
+        "rua": "Rua Exemplo, 789",
+        "cidade": "Manaus",
+        "estado": "AM",
+        "cep": "78901-234"
+        },  
+    "telefone": "92 98765-4321"
+    },
+    {
+    "id": 10,
+    "nome": "Tatiane Martins",
+    "email": "tatiane.martins@inatel.br",
+    "endereco": {
+        "rua": "Avenida Teste, 321",
+        "cidade": "Brasília",
+        "estado": "DF",
+        "cep": "89012-345"
+        },
+    "telefone": "61 91234-5678"
+    }
+
+]
