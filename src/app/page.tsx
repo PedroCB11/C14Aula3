@@ -10,7 +10,7 @@ export default function Home() {
         <h1 style={{fontSize: "2rem", fontWeight: "bold"}}>
                         Clientes:
                         Clique para mudar o cliente exibido
-        </h1>
+      </h1>
         
 
         <div className={styles.ctas}>
@@ -38,6 +38,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
+
+          
           <Image
             aria-hidden
             src="/file.svg"
